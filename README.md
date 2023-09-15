@@ -1,10 +1,8 @@
-# React-Portfoli0
+# React + Vite
 
-## Description
-This project started from scratch to come together as a Portfolio. Modification of the original project included adding react to the functionality.
-## Installation
-N/A
-## Useage
-https://64f7f274a2b0fc2d4cd84432--luxury-piroshki-dc1fe6.netlify.app/ 
-## License
-N/A 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
